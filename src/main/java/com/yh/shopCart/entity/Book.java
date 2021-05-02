@@ -3,9 +3,10 @@ package com.yh.shopCart.entity;
 public class Book {
     private Integer id;
     private String address;
-    private String sex;
 
     private String name;
+    
+    private String email;
 
     private String author;
 

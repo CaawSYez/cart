@@ -3,7 +3,7 @@ package com.yh.shopCart.entity;
 public class Book {
     private Integer id;
     private String address;
-    private String sexy;
+    private String sexyy;
 
     private String name;
     

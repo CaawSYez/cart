@@ -9,7 +9,7 @@ public class Book {
 
     private String name;
     
-    private String email;
+    
 
     private String author;
 
